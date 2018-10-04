@@ -25,6 +25,7 @@ $(() => {
 
     $('#btnGenerate').bind('input click', function() {
         var isUpperCase = $('#isUpperCase').val()
+        if(isUpperCase == ''){isUpperCase = 'Y'}
         var dividerType = $('#dividerType').val()
         var guidCount = $('#txtGuidCount').val()
         var guidList = ''
