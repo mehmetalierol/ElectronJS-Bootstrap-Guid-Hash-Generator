@@ -1,0 +1,24 @@
+html, body, .container-fluid {
+    background-color: #636e72;
+  }
+  
+  #radioBtn .notActive{
+    color: #3276b1;
+    background-color: #fff;
+}
+
+  .text-input {
+    font-size: 16px;
+  }
+  
+  .hash-output {
+    color: #575B5E;
+    font-size: 16px;
+    letter-spacing: 2px;
+    white-space: pre-wrap;
+  }
+  
+  .hash-heading {
+    color: #575B5E;
+    font-weight: normal;
+  }
