@@ -3,7 +3,7 @@ ElectronJS ile birlikte bootstrap kullanılarak hazırlanmıştır. Seçeneklere
 
 Projeyi indirmek için sevdiğiniz IDE içinde projeyi indireceğiniz klasörü açarak komut satırına
 
-https://github.com/mehmetalierol/ElectronJS-Bootstrap-Guid-Hash-Generator
+git clone https://github.com/mehmetalierol/ElectronJS-Bootstrap-Guid-Hash-Generator
 
 yazarak entera basabilirsiniz.
 
